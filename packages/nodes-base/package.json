@@ -220,6 +220,7 @@
       "dist/credentials/PagerDutyOAuth2Api.credentials.js",
       "dist/credentials/PayPalApi.credentials.js",
       "dist/credentials/PeekalinkApi.credentials.js",
+      "dist/credentials/PerfectMindApi.credentials.js",
       "dist/credentials/PhantombusterApi.credentials.js",
       "dist/credentials/PhilipsHueOAuth2Api.credentials.js",
       "dist/credentials/PipedriveApi.credentials.js",
