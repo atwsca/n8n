@@ -561,6 +561,7 @@
       "dist/nodes/PayPal/PayPal.node.js",
       "dist/nodes/PayPal/PayPalTrigger.node.js",
       "dist/nodes/Peekalink/Peekalink.node.js",
+      "dist/nodes/PerfectMind/PerfectMind.node.js",
       "dist/nodes/Phantombuster/Phantombuster.node.js",
       "dist/nodes/PhilipsHue/PhilipsHue.node.js",
       "dist/nodes/Pipedrive/Pipedrive.node.js",
